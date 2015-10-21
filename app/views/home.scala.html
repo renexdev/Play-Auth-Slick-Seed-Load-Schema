@@ -1,0 +1,7 @@
+@(userOption: Option[models.User])(implicit messages: Messages)
+
+@main(Messages("home.title"), userOption) {
+    <div class="user col-md-6 col-md-offset-3">
+        <h1>@Messages("welcome")</h1>
+    </div>
+}

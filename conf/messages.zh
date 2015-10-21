@@ -1,0 +1,60 @@
+error.email = 需要有效的电子邮件
+error.required = 此字段是必须的
+invalid.credentials = 用户名或密码无效!
+access.denied = 拒绝访问!
+user.exists = 这个email 已经存在一个用户了!
+user.non-existent = 没有找到用户!
+could.not.authenticate = 这个社交账号无法验证! 请重试!
+
+home.title = Silhouette - 首页
+sign.up.title = Silhouette - 注册
+sign.in.title = Silhouette - 登录
+
+edit.title = Silhouette - 编辑
+edit.pass = 更改您的密码
+edit.profile = 更改你的个人资料
+edit.save = 保存
+
+edit.pass.now = 更改密码
+edit.profile.now = 更改个人资料
+edit.destruction.now = Destruction Account
+
+welcome = 欢迎! 这个是首页。
+
+toggle.navigation = Toggle navigation
+welcome.signed.in = 欢迎, 你现在已经登录!
+
+sign.up.account = 注册一个新用户
+sign.in.credentials = 登录您的账户
+
+error = 错误!
+home = 首页
+admin = 管理后台
+
+full.name = 姓名
+email = 电子邮件
+password = 密码
+sex = 性别
+age = 年龄
+
+sex.Male = 男
+sex.Female = 女
+None = 未知
+
+sign.up = 注册
+sign.in = 登录
+sign.out = 注销
+sign.in.now = 现在登录
+sign.up.now = 现在注册
+already.a.member = 已经有账号?
+not.a.member = 还没有账号?
+
+remember.me = 在这台电脑上记住我的登录状态
+or.use.social = 或使用以下社交服务账号登录:
+
+google = Google
+facebook = Facebook
+twitter = Twitter
+vk = VK
+xing = Xing
+yahoo = Yahoo
